@@ -1,5 +1,5 @@
 ### Hi, I'm Qiyu8 👋
-I'm familiar with Java, JavaScript and C. For most of the time, I'm working with Java.
+I'm familiar with Java, Python, JS/NodeJS/TS/Vue/React and C. For most of the time, I'm working with Java/Python/C.
 
 I'm interested in all kinds of basic libraries, like multi-terminal transformation framework and Numerical Computation Framework.
 
