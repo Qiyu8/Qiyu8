@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi, I'm Qiyu8 👋
+I'm familiar with Java, JavaScript and C. For most of the time, I'm working with Java.
 
+I'm interested in all kinds of basic libraries, like multi-terminal transformation framework and Numerical Computation Framework.
+
+I'm helping out maintaining [Numpy](https://github.com/numpy/numpy), which is the fundamental package needed for scientific computing with Python..
+
+I'm also working in [Taro](https://github.com/NervJS/taro), which is an open cross-end and cross-frame solution that supports the use of frameworks such as React, Vue, and Nerv to develop applications such as weapp, JD.com, Baidu miniapp, Alipay miniapp, ByteDance miniapp, QQ miniapp, and H5.
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Qiyu8)
+
+### Contact me
+- <fangchunlin@huawei.com>
 <!--
 **Qiyu8/Qiyu8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
